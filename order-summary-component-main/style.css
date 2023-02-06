@@ -1,0 +1,75 @@
+body{
+   background-color:hsl(225, 100%, 98%) ;
+   width: 20%;
+   margin:0 auto;
+   margin-top: 10%;
+}
+h5{
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 100 ;
+    width: 80%;
+    margin: 0 auto;
+    color: hsl(223, 47%, 23%);
+}
+p{
+    font-size: 12px;
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 900;
+    color: hsl(223, 47%, 23%);
+
+}
+.container{
+   text-align: center;
+   background-color: #fff;
+   border-radius: 15px;
+
+}
+h2{
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 900;
+    color: hsl(223, 47%, 23%);
+}
+.hero{
+    width: 100%;
+    border-radius: 15px;
+}
+.img{
+    float: left;
+    
+
+}
+.annual-plan{
+    background-color: hsl(225, 100%, 98%);
+    display: flex;
+    border-radius: 15px;
+    margin: 15px auto;
+    width: 80%;
+}
+.ptp{
+    background-color:hsl(245, 75%, 52%) ;
+    padding : 10px 0 10px 0;
+    width: 80%;
+    margin: 15px auto;
+    border-radius: 10px;
+    color: #fff
+}
+.ptp:hover{
+    color: black;
+}
+.change{
+    font-size: 15px;
+}
+.ap{
+    display: block;
+}
+.change{
+    font-family: 'Red Hat Display', sans-serif;
+    text-decoration: none;
+    text-align: center;
+}
+.cancel-order{
+    margin-top: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    display: flex;
+}
